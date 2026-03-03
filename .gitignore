@@ -1,1 +1,5 @@
-
+BitcoinHeistData.csv
+BitcoinHeistData
+data/samples/*.csv
+*.parquet
+bitcoinheist_simple/
